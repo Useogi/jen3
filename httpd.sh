@@ -1,3 +1,3 @@
 #!/bin/bash
 yum install -y httpd
-systemctl start httpd#!/bin/bash
+systemctl start httpd
